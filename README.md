@@ -1,4 +1,4 @@
-jenkins-frontend
+jenks-frontend
 ================
 
-A user interface for a nicer jenkins frontend.
+A user interface concept for my favourite Continuous Integration tool.
